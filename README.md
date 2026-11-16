@@ -1,6 +1,6 @@
 # Olá! Eu sou a Cristina Rocha 👩‍💻
 
-🎓 Estudante de Ciência da Computação | 4º semestre
+🎓 Estudante de Ciência da Computação | 5º semestre
 
 💻 Construindo minha trajetória na área de Tecnologia da Informação.
 
