@@ -64,6 +64,19 @@ Utilizo este GitHub para documentar meu aprendizado, desenvolver projetos práti
 
 Construir soluções tecnológicas, desenvolver minhas habilidades técnicas e transformar conhecimentos acadêmicos em projetos aplicáveis ao mundo real.
 
+
+## 🐍 Minha atividade no GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crisrocha24/crisrocha24/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crisrocha24/crisrocha24/output/github-contribution-grid-snake.svg">
+  <img alt="Animação da cobrinha no GitHub" src="https://raw.githubusercontent.com/crisrocha24/crisrocha24/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+📌 *Este perfil está em constante evolução, assim como minha jornada na tecnologia.*
+
 ---
 
 \<p align="center">   💚 \<i>Este perfil está em constante evolução, assim como minha jornada na tecnologia.\</i> \</p>
